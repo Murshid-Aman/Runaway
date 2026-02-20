@@ -1,0 +1,30 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# Auto-generated Unity stuff
+UIElementsSchema/
+
+# Visual Studio / Rider / VSCode
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# Unity cache / old files
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# OS junk
+.DS_Store
+Thumbs.db
